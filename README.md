@@ -4,6 +4,7 @@
 A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
 <br/>
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
+<img src="./images/aads-server.png"/>
 📛 William Siefert
 📍 Bangkok, TH.
 🎂 25 November
@@ -64,7 +65,7 @@ A passionate developer who is interested in how things work. I enjoy working col
     -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js,
         SQL. Server and client communicated by socket.
     <img src="./images/aads-server.png"/>
-    <img src="./images/aads-client.png"/>
+    <img src="./images/adds-client.png"/>
 -   Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
