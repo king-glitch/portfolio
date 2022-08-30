@@ -2,7 +2,8 @@
 <h2>About Me 💗</h2>
 <p align="center">
 A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
-<a href="https://github.com/king-glitch">Github Homepage with stats</a>
+<br/>
+<a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
 
 ## Table of Contents 📦
 
