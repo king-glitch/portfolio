@@ -38,10 +38,14 @@
 
 ## Languages:
 
-## Interests:
-
 -   Thai - Native
 -   English - Good
+
+## Interests:
+
+-   Web Development
+-   Software Development
+-   Full-Stack Development
 
 ## Educations:
 
@@ -64,11 +68,12 @@
         Server and client communicated by socket.
 
 ## Likes & Dislikes:
-- Likes: 
-    - Coding.
-    - hanging around with the community.
-- Dislikes:
-    - Loud places
+
+-   Likes:
+    -   Coding.
+    -   hanging around with the community.
+-   Dislikes:
+    -   Loud places
 
 ## Languages & Tools
 
