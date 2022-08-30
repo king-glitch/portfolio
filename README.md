@@ -26,7 +26,7 @@
 
 ## Hard Skills
 
--   Coding ![Languages & Tools](#languages--tools)
+-   Coding [Languages & Tools](#languages--tools)
 -   Logical Programming
 
 ## Soft Skills:
