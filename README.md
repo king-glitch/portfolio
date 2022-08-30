@@ -3,6 +3,11 @@
 <p align="center">
     <img src="./images/profile.png" width="180px"/>
 </p>
+<p align="center" >
+    <i>
+        "Formal education will make you a living; self-education will make you a fortune. --Jim Rohn"
+    </i>
+</p>
 <p align="center">
 A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
 <br/>
@@ -79,4 +84,5 @@ A passionate developer who is interested in how things work. I enjoy working col
 <a href="https://fb.com/lostedstardust" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
 <a href="https://instagram.com/_william.ts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william-siefert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-siefert" height="30" width="40" /></a>
-<a href="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" target="_blank"><img align="center" src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" alt="william-siefert"/></a>
+<br/>
+<a href="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" target="_blank"><img align="center" src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" alt="gif"/></a>
