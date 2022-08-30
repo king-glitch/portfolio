@@ -9,16 +9,16 @@
 
 ## Table of Contents
 
-- [About Me 💗](#about-me-)
-- [Hard Skills 🛠️](#hard-skills-)
-- [Soft Skills ⚓](#soft-skills-)
-- [Languages 🙌](#languages-)
-- [Interests 🍪](#interests-)
-- [Educations 🔧](#educations-)
+- [About Me 💗](#about-me)
+- [Hard Skills 🛠️](#hard-skills)
+- [Soft Skills ⚓](#soft-skills)
+- [Languages 🙌](#languages)
+- [Interests 🍪](#interests)
+- [Educations 🔧](#educations)
 - [Work Experience 🚀](#work-experience)
-- [Projects 🚀](#projects-)
-- [Likes & Dislikes 🚀](#likes-&-dislikes-)
-- [Languages & Tools](#languages-&-tools-)
+- [Projects 🚀](#projects)
+- [Likes & Dislikes 🚀](#likes-&-dislikes)
+- [Languages & Tools](#languages-&-tools)
 
 ## About Me:
 ## Hard Skills:
