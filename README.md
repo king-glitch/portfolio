@@ -68,6 +68,8 @@
     -   A military program to control aircrafts from surveillance radars around Thailand.
     -   Build, implement and develop both client using C#, .net, Gmap.net, winforms and server using Node.js, SQL.
         Server and client communicated by socket.
+-   Spare Time & School Projects:
+    -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
 ## Likes & Dislikes 🍦
 
@@ -85,6 +87,6 @@
 
 <a href="https://fb.com/lostedstardust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
 <a href="https://instagram.com/_william.ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
-<a href="https://discord.gg/itsmewilliam#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itsmewilliam#0001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/william-sieferti9mq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-sieferti9mq%3d%3d" height="30" width="40" /></a>
 
 </p>
