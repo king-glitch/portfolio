@@ -1,12 +1,13 @@
 <h1 align="center">✨ William Siefert's Portfolio ✨</h1>
 <h2>About Me 💗</h2>
+<img src="./images/profile.png" width="200px"/>
+<br/>
 <p align="center">
 A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
 <br/>
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
 <br/>
-<img src="./images/profile.png" width="150px"/>
-<br/>
+
 📛 William Siefert
 <br/>
 📍 Bangkok, TH.
