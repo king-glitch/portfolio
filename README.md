@@ -5,11 +5,14 @@ A passionate developer who is interested in how things work. I enjoy working col
 <br/>
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
 <br/>
-<img src="./images/profile.png" width="100px"/>
+<img src="./images/profile.png" width="150px"/>
 <br/>
 📛 William Siefert
+<br/>
 📍 Bangkok, TH.
+<br/>
 🎂 25 November
+<br/>
 
 ## Table of Contents 📦
 
