@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">William Siefert Portfolio ✨</h1>
+  <h1 align="center">✨ William Siefert's Portfolio ✨</h1>
 
   <p align="center">
     A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
@@ -9,17 +9,17 @@
 
 ## Table of Contents
 
--   [About Me 💗](#about-me)
--   [Hard Skills 🤹🏻](#hard-skills)
--   [Soft Skills ⚓](#soft-skills)
--   [Languages 🗣️](#languages)
--   [Interests 🤖](#interests)
--   [Educations 🏫](#educations)
--   [Work Experience 🧑‍💼](#work-experience)
--   [Projects 🚧](#projects)
--   [Likes & Dislikes 🍦](#likes--dislikes)
--   [Languages & Tools ⚒️](#languages--tools)
--   [Contacts 🐧](#contacts)
+-   [About Me 💗](#about-me-)
+-   [Hard Skills 🤹🏻](#hard-skills-)
+-   [Soft Skills ⚓](#soft-skills-)
+-   [Languages 🗣️](#languages-)
+-   [Interests 🤖](#interests-)
+-   [Educations 🏫](#educations-)
+-   [Work Experience 🧑‍💼](#work-experience-)
+-   [Projects 🚧](#projects-)
+-   [Likes & Dislikes 🍦](#likes--dislikes-)
+-   [Languages & Tools ⚒️](#languages--tools-)
+-   [Contacts 🐧](#contacts-)
 
 ## About Me 💗
 
@@ -60,15 +60,15 @@
 
 ## Projects 🚧
 
--   School Bus Platform to avoid trapped kindergarten students.
+-   School Bus Platform to avoid trapped kindergarten students. 🚌
     -   A platform to alert parents when there is a student trapped in the bus.
     -   Build and develop web applications with RESTFUL api with Django as a back-end and Next.js as a front-end. Allow
         mobiles and raspberry pi to communicate with RESTFUL api.
--   AADS (Army Air Defense System)
+-   AADS (Army Air Defense System). ✈️
     -   A military program to control aircrafts from surveillance radars around Thailand.
-    -   Build, implement and develop both client using C#, .net, Gmap.net, winforms and server using Node.js, SQL.
+    -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js, SQL.
         Server and client communicated by socket.
--   Spare Time & School Projects:
+-   Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
 ## Likes & Dislikes 🍦
