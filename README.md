@@ -4,7 +4,7 @@
 A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
 <br/>
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
-<img src="./images/aads-server.png"/>
+<img src="./images/profile.png" width="100px"/>
 📛 William Siefert
 📍 Bangkok, TH.
 🎂 25 November
