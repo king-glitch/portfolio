@@ -1,5 +1,4 @@
 <h1 align="center">✨ William Siefert ✨</h1>
-<h2>About Me 💗</h2>
 <p align="center">
     <img src="./images/profile.png" width="180px"/>
 </p>
