@@ -1,4 +1,4 @@
-<h1 align="center">✨ William Siefert's Portfolio ✨</h1>
+<h1 align="center">✨ William Siefert ✨</h1>
 <h2>About Me 💗</h2>
 <p align="center">
     <img src="./images/profile.png" width="180px"/>
@@ -9,7 +9,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
 <br/>
 
-📛 William Siefert <br/> 📍 Bangkok, TH. <br/> 🎂 25 November <br/>
+📛 William Siefert <br/> 📍 Bangkok, TH. <br/> 🎂 25 November, 1999 <br/>
 
 ## Table of Contents 📦
 
@@ -20,7 +20,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 -   [Educations 🏫](#educations-)
 -   [Work Experience 🧑‍💼](#work-experience-)
 -   [Projects 🚧](#projects-)
--   [Languages & Tools ⚒️](#languages--tools-)
+-   [Languages & Tools ⚒️](#languages--tools-%EF%B8%8F)
 -   [Contacts 🐧](#contacts-)
 
 ## Hard Skills 🤹🏻
@@ -79,5 +79,4 @@ A passionate developer who is interested in how things work. I enjoy working col
 <a href="https://fb.com/lostedstardust" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
 <a href="https://instagram.com/_william.ts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william-siefert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-siefert" height="30" width="40" /></a>
-
-</p>
+<a href="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" target="_blank"><img align="center" src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" alt="william-siefert"/></a>
