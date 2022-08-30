@@ -84,4 +84,6 @@ A passionate developer who is interested in how things work. I enjoy working col
 <a href="https://instagram.com/_william.ts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william-siefert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-siefert" height="30" width="40" /></a>
 <br/>
+<br/>
+<br/>
 <a href="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" target="_blank"><img align="center" src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e477heklochdsb3hge5z6v1msanxjyrbb2un2j93b2c&rid=giphy.gif&ct=g" alt="gif"/></a>
