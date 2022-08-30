@@ -4,6 +4,9 @@
 A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
 <br/>
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
+📛 William Siefert
+📍 Bangkok, TH.
+🎂 25 November
 
 ## Table of Contents 📦
 
@@ -14,7 +17,6 @@ A passionate developer who is interested in how things work. I enjoy working col
 -   [Educations 🏫](#educations-)
 -   [Work Experience 🧑‍💼](#work-experience-)
 -   [Projects 🚧](#projects-)
--   [Likes & Dislikes 🍦](#likes--dislikes-)
 -   [Languages & Tools ⚒️](#languages--tools-)
 -   [Contacts 🐧](#contacts-)
 
@@ -61,16 +63,10 @@ A passionate developer who is interested in how things work. I enjoy working col
     -   A military program to control aircrafts from surveillance radars around Thailand.
     -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js,
         SQL. Server and client communicated by socket.
+    <img src="./images/aads-server.png"/>
+    <img src="./images/aads-client.png"/>
 -   Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
-
-## Likes & Dislikes 🍦
-
--   Likes:
-    -   Coding.
-    -   hanging around with the community.
--   Dislikes:
-    -   Loud places
 
 ## Languages & Tools ⚒️
 
