@@ -17,8 +17,8 @@
 -   [Educations 🔧](#educations)
 -   [Work Experience 🚀](#work-experience)
 -   [Projects 🚀](#projects)
--   [Likes & Dislikes 🚀](#likes-&-dislikes)
--   [Languages & Tools](#languages-&-tools)
+-   [Likes & Dislikes 🚀](#likes--dislikes)
+-   [Languages & Tools](#languages--tools)
 
 ## About Me
 
