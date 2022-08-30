@@ -12,6 +12,8 @@ A passionate developer who is interested in how things work. I enjoy working col
 <br/>
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
 <br/>
+<a align="center" href="./resume/resume.pdf">Resume</a>
+<br/>
 
 <!-- 📛 William Siefert <br/> 📍 Bangkok, TH. <br/> 🎂 25 November, 1999 <br/> -->
 
