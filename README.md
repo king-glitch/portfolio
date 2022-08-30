@@ -85,8 +85,8 @@
 
 ## Contacts 🐧
 
-<a href="https://fb.com/lostedstardust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
-<a href="https://instagram.com/_william.ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/william-sieferti9mq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-siefert" height="30" width="40" /></a>
+<a href="https://fb.com/lostedstardust" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
+<a href="https://instagram.com/_william.ts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/william-siefert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-siefert" height="30" width="40" /></a>
 
 </p>
