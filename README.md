@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center">✨ William Siefert's Portfolio ✨</h1>
 
+  <h1 align="center">💗 About Me 💗</h1>
   <p align="center">
     A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
     <a href="https://github.com/king-glitch">Github Homepage with stats</a>
@@ -8,8 +9,6 @@
 </p>
 
 ## Table of Contents
-
--   [About Me 💗](#about-me-)
 -   [Hard Skills 🤹🏻](#hard-skills-)
 -   [Soft Skills ⚓](#soft-skills-)
 -   [Languages 🗣️](#languages-)
@@ -20,10 +19,6 @@
 -   [Likes & Dislikes 🍦](#likes--dislikes-)
 -   [Languages & Tools ⚒️](#languages--tools-)
 -   [Contacts 🐧](#contacts-)
-
-## About Me 💗
-
--   Bangkok, TH.
 
 ## Hard Skills 🤹🏻
 
@@ -66,8 +61,8 @@
         mobiles and raspberry pi to communicate with RESTFUL api.
 -   AADS (Army Air Defense System). ✈️
     -   A military program to control aircrafts from surveillance radars around Thailand.
-    -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js, SQL.
-        Server and client communicated by socket.
+    -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js,
+        SQL. Server and client communicated by socket.
 -   Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
