@@ -67,7 +67,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 -   AADS (Army Air Defense System). ✈️
     -   A military program to control aircrafts from surveillance radars around Thailand.
     -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js,
-        SQL. Server and client communicated by socket. 
+        SQL. Both server and client communicated by socket. 
         <p>
             <img src="./images/aads-server.png"/>
             <img src="./images/adds-client.png"/>
