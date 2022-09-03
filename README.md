@@ -51,7 +51,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 
 ## Educations 🏫
 
--   Bankok University, Since 2019 - Present
+-   Bangkok University, Since 2019 - Present
     -   School of Information Technology and Innovation, Computer Science.
 
 ## Work Experience 🧑‍💼
