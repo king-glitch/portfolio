@@ -64,6 +64,9 @@ A passionate developer who is interested in how things work. I enjoy working col
     -   A platform to alert parents when there is a student trapped in the bus.
     -   Build and develop web applications with RESTFUL api with Django as a back-end and Next.js as a front-end. Allow
         mobiles and raspberry pi to communicate with RESTFUL api.
+    <p>
+            <img src="./images/school-bus.png"/>
+    </p>
 -   AADS (Army Air Defense System). ✈️
     -   A military program to control aircrafts from surveillance radars around Thailand.
     -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js,
