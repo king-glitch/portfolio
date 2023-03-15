@@ -63,14 +63,14 @@ A passionate developer who is interested in how things work. I enjoy working col
     
 ## Projects 🚧
 
--   ###School Bus Platform to avoid trapped kindergarten students. 🚌
+-   School Bus Platform to avoid trapped kindergarten students. 🚌
     -   A platform to alert parents when there is a student trapped in the bus.
     -   Build and develop web applications with RESTFUL api with Django as a back-end and Next.js as a front-end. Allow
         mobiles and raspberry pi to communicate with RESTFUL api.
     <p>
             <img src="./images/school-bus.png"/>
     </p>
--   ###AADS (Army Air Defense System). ✈️
+-   AADS (Army Air Defense System). ✈️
     - Implemented a military program to control aircraft from surveillance radars around Thailand by decoding encoded messages from the radar and showing it to the user.
     - Developed client-side using C#, .NET, Gmap.NET, and WinForms
     - Developed server-side using Electron.js, React.js, Socket.io, Node.js, and MySQL
@@ -79,13 +79,13 @@ A passionate developer who is interested in how things work. I enjoy working col
         <img src="./images/aads-server.png"/>
         <img src="./images/adds-client.png"/>
     </p>
--   ###VR-DARTS 🎲
+-   VR-DARTS 🎲
     - A e-learning platform with quiz 
     - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
     - Using Election.js, React.js
     <p>
-        <img src="./images/vr-darts-model"/>
-        <img src="./images/vr-darts-quiz"/>
+        <img src="./images/vr-darts-model.png"/>
+        <img src="./images/vr-darts-quiz.png"/>
         <img src="./images/vr-dart-video.png"/>
     </p>
 -   ###Spare Time & School Projects. 📚
