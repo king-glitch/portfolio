@@ -84,8 +84,9 @@ A passionate developer who is interested in how things work. I enjoy working col
     - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
     - Using Election.js, React.js
     <p>
-        <img src="./images/aads-server.png"/>
-        <img src="./images/adds-client.png"/>
+        <img src="./images/vr-darts-model"/>
+        <img src="./images/vr-darts-quiz"/>
+        <img src="./images/vr-dart-video.png"/>
     </p>
 -   ###Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
