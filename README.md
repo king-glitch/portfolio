@@ -13,6 +13,26 @@ A passionate developer who is interested in how things work. I enjoy working col
 <a align="center" href="https://github.com/king-glitch">Github Homepage with stats</a>
 <br/>
 
+<h1 align="center">✨ William Siefert ✨</h1>
+
+<p align="center">
+  <img src="./images/profile.png" width="180px" alt="Profile Picture"/>
+</p>
+
+<p align="center">
+  <i>
+    "Formal education will make you a living; self-education will make you a fortune. --Jim Rohn"
+  </i>
+</p>
+
+<p align="center">
+  A passionate developer who is interested in how things work. I enjoy working collaboratively but I can also work independently. I’m looking to join forces with a company to continue to grow my skill set while contributing with others.
+</p>
+
+<p align="center">
+  <a href="https://github.com/king-glitch">GitHub Homepage with stats</a>
+</p>
+    
 ## Table of Contents 📦
 
 -   [Hard Skills 🤹🏻](#hard-skills-)
