@@ -133,6 +133,8 @@ A passionate developer who is interested in how things work. I enjoy working col
 <a href="https://fb.com/lostedstardust" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lostedstardust" height="30" width="40" /></a>
 <a href="https://instagram.com/_william.ts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_william.ts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william-siefert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-siefert" height="30" width="40" /></a>
+
+Email: wilhelm.hsf@gmail.com
 <br/>
 <br/>
 <br/>
