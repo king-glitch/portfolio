@@ -63,13 +63,6 @@ A passionate developer who is interested in how things work. I enjoy working col
 -   Internship At Bangkok University Multimedia Intelligent Technology (CoSI) as a Software Developer. Since 16th January 2023 - Present.
     
 ## Projects 🚧
-
--   <b>School Bus Platform to avoid trapped kindergarten students.</b> 🚌
-    -   A platform to alert parents when there is a student trapped in the bus.
-    -   Build and develop web applications with RESTFUL api with <b>Django</b> as a back-end and <b>Next.js</b> as a front-end. Allow mobiles and raspberry pi to communicate with <b>RESTFUL api</b>.
-    <p>
-            <img src="./images/school-bus.png"/>
-    </p>
 -   <b>AADS (Army Air Defense System).</b> ✈️
     - A military program that tracks the aircraft from surveillance radars and let user to control the system including Voice Call, Messaging, Control State of the Aircrafts, and Alert if the aircraft is suspect as a enemy.
     - Implemented a military program to control aircraft from surveillance radars around Thailand by decoding encoded messages from the radar and showing it to the user.
@@ -79,6 +72,12 @@ A passionate developer who is interested in how things work. I enjoy working col
     <p>
         <img src="./images/aads-server.png"/>
         <img src="./images/adds-client.png"/>
+    </p>
+-   <b>School Bus Platform to avoid trapped kindergarten students.</b> 🚌
+    -   A platform to alert parents when there is a student trapped in the bus.
+    -   Build and develop web applications with RESTFUL api with <b>Django</b> as a back-end and <b>Next.js</b> as a front-end. Allow mobiles and raspberry pi to communicate with <b>RESTFUL api</b>.
+    <p>
+            <img src="./images/school-bus.png"/>
     </p>
 -   <b>VR-DARTS</b> 🎲
     - A e-learning platform with quiz.
