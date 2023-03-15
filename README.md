@@ -63,22 +63,31 @@ A passionate developer who is interested in how things work. I enjoy working col
     
 ## Projects 🚧
 
--   School Bus Platform to avoid trapped kindergarten students. 🚌
+-   ###School Bus Platform to avoid trapped kindergarten students. 🚌
     -   A platform to alert parents when there is a student trapped in the bus.
     -   Build and develop web applications with RESTFUL api with Django as a back-end and Next.js as a front-end. Allow
         mobiles and raspberry pi to communicate with RESTFUL api.
     <p>
             <img src="./images/school-bus.png"/>
     </p>
--   AADS (Army Air Defense System). ✈️
-    -   A military program to control aircrafts from surveillance radars around Thailand.
-    -   Build, implement and develop both client side using C#, .net, Gmap.net, winforms and server side using Node.js,
-        SQL. Both server and client communicated by socket. 
-        <p>
-            <img src="./images/aads-server.png"/>
-            <img src="./images/adds-client.png"/>
-        </p>
--   Spare Time & School Projects. 📚
+-   ###AADS (Army Air Defense System). ✈️
+    - Implemented a military program to control aircraft from surveillance radars around Thailand by decoding encoded messages from the radar and showing it to the user.
+    - Developed client-side using C#, .NET, Gmap.NET, and WinForms
+    - Developed server-side using Electron.js, React.js, Socket.io, Node.js, and MySQL
+    - Established communication between server and client using sockets
+    <p>
+        <img src="./images/aads-server.png"/>
+        <img src="./images/adds-client.png"/>
+    </p>
+-   ###VR-DARTS 🎲
+    - A e-learning platform with quiz 
+    - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
+    - Using Election.js, React.js
+    <p>
+        <img src="./images/aads-server.png"/>
+        <img src="./images/adds-client.png"/>
+    </p>
+-   ###Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
 ## Languages & Tools ⚒️
