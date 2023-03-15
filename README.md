@@ -63,13 +63,13 @@ A passionate developer who is interested in how things work. I enjoy working col
     
 ## Projects 🚧
 
--   School Bus Platform to avoid trapped kindergarten students. 🚌
+-   <b>School Bus Platform to avoid trapped kindergarten students.</b> 🚌
     -   A platform to alert parents when there is a student trapped in the bus.
     -   Build and develop web applications with RESTFUL api with <b>Django</b> as a back-end and <b>Next.js</b> as a front-end. Allow mobiles and raspberry pi to communicate with <b>RESTFUL api</b>.
     <p>
             <img src="./images/school-bus.png"/>
     </p>
--   AADS (Army Air Defense System). ✈️
+-   <b>AADS (Army Air Defense System).</b> ✈️
     - Implemented a military program to control aircraft from surveillance radars around Thailand by decoding encoded messages from the radar and showing it to the user.
     - Developed client-side using <b>C#</b>, <b>.NET</b>, <b>Gmap.NET</b>, and <b>WinForms</b>
     - Developed server-side using <b>Electron.js</b>, <b>React.js</b>, <b>Socket.io</b>, Node.js</b>, and <b>MySQL</b>
@@ -78,7 +78,7 @@ A passionate developer who is interested in how things work. I enjoy working col
         <img src="./images/aads-server.png"/>
         <img src="./images/adds-client.png"/>
     </p>
--   VR-DARTS 🎲
+-   <b>VR-DARTS</b> 🎲
     - A e-learning platform with quiz 
     - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
     - Using <b>Election.js</b>, <b>React.js</b>
@@ -87,11 +87,11 @@ A passionate developer who is interested in how things work. I enjoy working col
         <img src="./images/vr-darts-quiz.png"/>
         <img src="./images/vr-dart-video.png"/>
     </p>
--   Coding for Metaverse Contest Website 🎲
+-   <b>Coding for Metaverse Contest Website</b> 🎲
     - This project collaborated with DEPA, Future Skills, Bangkok University.
     - Implemented a contest website for registering.
     - Developed using <b>Next.js</b>, <b>React.js</b>
--   Spare Time & School Projects. 📚
+-   <b>Spare Time & School Projects.</b> 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
 ## Languages & Tools ⚒️
