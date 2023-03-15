@@ -88,6 +88,10 @@ A passionate developer who is interested in how things work. I enjoy working col
         <img src="./images/vr-darts-quiz.png"/>
         <img src="./images/vr-dart-video.png"/>
     </p>
+-   Coding for Metaverse Contest Website 🎲
+    - This project collaborated with DEPA, Future Skills, Bangkok University.
+    - Implemented a contest website for registering.
+    - Developed using <b>Next.js</b>, React.js
 -   ###Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
