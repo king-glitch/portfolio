@@ -65,15 +65,14 @@ A passionate developer who is interested in how things work. I enjoy working col
 
 -   School Bus Platform to avoid trapped kindergarten students. 🚌
     -   A platform to alert parents when there is a student trapped in the bus.
-    -   Build and develop web applications with RESTFUL api with Django as a back-end and Next.js as a front-end. Allow
-        mobiles and raspberry pi to communicate with RESTFUL api.
+    -   Build and develop web applications with RESTFUL api with <b>Django</b> as a back-end and <b>Next.js</b> as a front-end. Allow mobiles and raspberry pi to communicate with <b>RESTFUL api</b>.
     <p>
             <img src="./images/school-bus.png"/>
     </p>
 -   AADS (Army Air Defense System). ✈️
     - Implemented a military program to control aircraft from surveillance radars around Thailand by decoding encoded messages from the radar and showing it to the user.
-    - Developed client-side using C#, .NET, Gmap.NET, and WinForms
-    - Developed server-side using Electron.js, React.js, Socket.io, Node.js, and MySQL
+    - Developed client-side using <b>C#</b>, <b>.NET</b>, <b>Gmap.NET</b>, and <b>WinForms</b>
+    - Developed server-side using <b>Electron.js</b>, <b>React.js</b>, <b>Socket.io</b>, Node.js</b>, and <b>MySQL</b>
     - Established communication between server and client using sockets
     <p>
         <img src="./images/aads-server.png"/>
@@ -82,7 +81,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 -   VR-DARTS 🎲
     - A e-learning platform with quiz 
     - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
-    - Using Election.js, React.js
+    - Using <b>Election.js</b>, <b>React.js</b>
     <p>
         <img src="./images/vr-darts-model.png"/>
         <img src="./images/vr-darts-quiz.png"/>
@@ -91,7 +90,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 -   Coding for Metaverse Contest Website 🎲
     - This project collaborated with DEPA, Future Skills, Bangkok University.
     - Implemented a contest website for registering.
-    - Developed using <b>Next.js</b>, React.js
+    - Developed using <b>Next.js</b>, <b>React.js</b>
 -   ###Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
