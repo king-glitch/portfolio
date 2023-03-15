@@ -91,7 +91,7 @@ A passionate developer who is interested in how things work. I enjoy working col
     - This project collaborated with DEPA, Future Skills, Bangkok University.
     - Implemented a contest website for registering.
     - Developed using <b>Next.js</b>, <b>React.js</b>
--   ###Spare Time & School Projects. 📚
+-   Spare Time & School Projects. 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
 ## Languages & Tools ⚒️
