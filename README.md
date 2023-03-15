@@ -47,6 +47,8 @@ A passionate developer who is interested in how things work. I enjoy working col
 
 -   Web Development
 -   Software Development
+-   Front - End Development
+-   Back - End Development
 -   Full-Stack Development
 
 ## Educations 🏫
@@ -58,6 +60,7 @@ A passionate developer who is interested in how things work. I enjoy working col
 
 -   Joined Bangkok University Multimedia Intelligent Technology as a member. Since 1st June 2022 - Present.
 -   Internship At Bangkok University Multimedia Intelligent Technology (CoSI) as a Software Developer. Since 16th January 2023 - Present.
+    
 ## Projects 🚧
 
 -   School Bus Platform to avoid trapped kindergarten students. 🚌
