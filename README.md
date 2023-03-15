@@ -80,7 +80,7 @@ A passionate developer who is interested in how things work. I enjoy working col
             <img src="./images/school-bus.png"/>
     </p>
 -   <b>VR-DARTS</b> 🎲
-    - A e-learning platform with quiz.
+    - A military e-learning platform for Aircraft recognition with quizzes.
     - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
     - Developed mainly using <b>Election.js</b>, <b>React.js</b>
     <p>
