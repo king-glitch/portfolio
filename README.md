@@ -53,8 +53,9 @@ A passionate developer who is interested in how things work. I enjoy working col
 
 ## Educations 🏫
 
--   Bangkok University, Since 2019 - Present
-    -   School of Information Technology and Innovation, Computer Science.
+-   Bangkok University, Since 2019 - Present 
+    - School of Information Technology and Innovation, Computer Science. 
+    - GPA : 3.90
 
 ## Work Experience 🧑‍💼
 
@@ -70,6 +71,7 @@ A passionate developer who is interested in how things work. I enjoy working col
             <img src="./images/school-bus.png"/>
     </p>
 -   <b>AADS (Army Air Defense System).</b> ✈️
+    - A military program that tracks the aircraft from surveillance radars and let user to control the system including Voice Call, Messaging, Control State of the Aircrafts, and Alert if the aircraft is suspect as a enemy.
     - Implemented a military program to control aircraft from surveillance radars around Thailand by decoding encoded messages from the radar and showing it to the user.
     - Developed client-side using <b>C#</b>, <b>.NET</b>, <b>Gmap.NET</b>, and <b>WinForms</b>
     - Developed server-side using <b>Electron.js</b>, <b>React.js</b>, <b>Socket.io</b>, Node.js</b>, and <b>MySQL</b>
@@ -79,18 +81,17 @@ A passionate developer who is interested in how things work. I enjoy working col
         <img src="./images/adds-client.png"/>
     </p>
 -   <b>VR-DARTS</b> 🎲
-    - A e-learning platform with quiz 
+    - A e-learning platform with quiz.
     - Implemented a military program to let users be able to learn, View Plane 3D Model, view video, track user learning progress and quiz systems.
-    - Using <b>Election.js</b>, <b>React.js</b>
+    - Developed mainly using <b>Election.js</b>, <b>React.js</b>
     <p>
         <img src="./images/vr-darts-model.png"/>
         <img src="./images/vr-darts-quiz.png"/>
         <img src="./images/vr-dart-video.png"/>
     </p>
 -   <b>Coding for Metaverse Contest Website</b> 🎲
-    - This project collaborated with DEPA, Future Skills, Bangkok University.
-    - Implemented a contest website for registering.
-    - Developed using <b>Next.js</b>, <b>React.js</b>
+    - A Contest website allow user to register and check the thier teams status. This project collaborated with DEPA, Future Skills, Bangkok University.
+    - Developed using <b>Next.js</b>, <b>React.js</b>, <b>MySQL</b>
 -   <b>Spare Time & School Projects.</b> 📚
     -   [View Projects](https://github.com/king-glitch?tab=repositories)
 
